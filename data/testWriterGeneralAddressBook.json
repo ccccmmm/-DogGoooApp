@@ -1,0 +1,17 @@
+{
+    "location name": "My address book",
+    "locations": [
+        {
+            "address": "123 Road, Vancouver BC V6T123",
+            "location name": "A",
+            "location category": "Restaurant",
+            "phone number": "7771112345"
+        },
+        {
+            "address": "456 Road, Vancouver BC V56789",
+            "location name": "B",
+            "location category": "Boutique",
+            "phone number": "7661234567"
+        }
+    ]
+}
